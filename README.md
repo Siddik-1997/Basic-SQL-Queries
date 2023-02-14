@@ -1,10 +1,10 @@
 # Basic-SQL-Queries
-# Technology Used:
+## Technology Used:
 - Xampp
 - SQLyog
 
 
-# Queries executed based on:
+## Queries executed based on:
 
 1. Create a database named database_assignment.
 2. create a table named customers.
